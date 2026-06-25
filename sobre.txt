@@ -1,1 +1,3 @@
-Lucas Mews 
+Lucas Mews
+18 anos
+Meta: Aprender React
